@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: River2
+  m_Shader: {fileID: -6465566751694194690, guid: 6157d5f994065884290705e96f702634, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_100A1D73: 1
+    - Vector1_4A7833BC: 5.2
+    - Vector1_59B256FF: 0.191
+    - Vector1_5E2EE445: 0.8
+    - Vector1_647DECFA: 0.26
+    - Vector1_8B78C3DB: 1
+    - Vector1_9C1C14B: 0.649
+    - Vector1_B8D6983C: 1.64
+    - Vector1_D7AF489A: 2.8
+    - Vector1_E4E24586: 0.5
+    - Vector1_E7D27608: 1
+    - Vector1_F65818A5: 0.07
+    m_Colors:
+    - Color_8D2184BD: {r: 0.33456454, g: 0.49160504, b: 0.805686, a: 0}
+    - Color_DFD03B81: {r: 0, g: 0.5503607, b: 1, a: 0}
+    - Vector2_1F3B4D2E: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
