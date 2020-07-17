@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HolographicField
+  m_Name: HolographicField 1
   m_Shader: {fileID: -6465566751694194690, guid: 349fc7e3152eb974286935b61b9a52cd, type: 3}
   m_ShaderKeywords: _BLENDMODE_ALPHA _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
   m_LightmapFlags: 4
@@ -44,11 +44,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_24E255C9: 0.2
-    - Vector1_993B6E14: 6
-    - Vector1_AF0A20C1: 15
-    - Vector1_DBF3CE44: 0.0004
-    - Vector1_EA447175: 0.3
+    - Vector1_24E255C9: 0.163
+    - Vector1_993B6E14: 13.68
+    - Vector1_AF0A20C1: 6.5
+    - Vector1_DBF3CE44: 0.00037
+    - Vector1_EA447175: 0.177
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10
     - _AlphaSrcBlend: 1
@@ -84,7 +84,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - Color_EBC2FDA: {r: 16.42261, g: 283.0648, b: 512, a: 0}
+    - Color_EBC2FDA: {r: 511.99994, g: 18.764402, b: 164.0088, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
